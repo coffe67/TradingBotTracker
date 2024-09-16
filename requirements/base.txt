@@ -1,0 +1,23 @@
+
+# Code Style Guides
+black
+boto3
+
+# Development
+coverage
+dj-database-url
+
+# Core APP
+Django==4.2
+django-cors-headers
+django-extensions
+django-storages
+djangorestframework
+drf-spectacular
+gunicorn
+IPython
+isort
+pre-commit
+psycopg2-binary
+python-dotenv
+requests
